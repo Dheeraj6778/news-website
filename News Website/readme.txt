@@ -1,0 +1,3 @@
+->Used external ads.json to populate ads
+->For running the website, remove the files from their respective folders and then run index.html file
+->Used bootstrap library for styling

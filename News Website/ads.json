@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Facebook",
+        "url":"https://www.facebook.com/images/fb_icon_325x325.png",    
+        "description":"Connect with the world"
+    }
+    ,
+
+    {
+        "title": "Swiggy",
+        "url": "https://cdn-images-1.medium.com/max/1200/1*v5SYqjYEdQMPIwNduRrnCw.png",
+        "description":"Food delivery app"
+    },
+    {
+        "title": "Classmate",
+        "url":"https://m.media-amazon.com/images/I/41F1No+yUSL._SY300_SX300_.jpg",
+        "description": "The best stationary"
+    }
+]
